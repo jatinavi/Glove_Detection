@@ -22,7 +22,7 @@ Speed: 6.5ms preprocess, 10.2ms inference, 2.4ms postprocess per image at shape 
 Results saved to runs/detect/predict2
 Detected 2 glove(s)
 ## when there was no glove in the image --
-![No Gloved Hand](test_images/sample.jpg)
+![No Gloved Hand](https://github.com/jatinavi/Glove_Detection/blob/main/stock-photo-close-up-bare-hands-of-male-in-isolated-white-background-505624180.jpg)
 image 1/1 /content/stock-photo-close-up-bare-hands-of-male-in-isolated-white-background-505624180.jpg: 480x640 (no detections), 41.1ms
 Speed: 3.3ms preprocess, 41.1ms inference, 0.8ms postprocess per image at shape (1, 3, 480, 640)
 Results saved to runs/detect/predict3
