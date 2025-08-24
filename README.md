@@ -16,7 +16,7 @@ Detects whether hands are gloved or bare using YOLOv8.
   - 
 ## live Output Example --
 ## when there was 2 gloves in the image --
-![Gloved Hand](/content/glove-30/valid/images/02_b143366b-b211-4004-8ffb-56d3a8038745_jpg.rf.806cf5381a7db99673bb463048c9f86e.jpg)
+![Gloved Hand](https://github.com/jatinavi/Glove_Detection/blob/main/02_b143366b-b211-4004-8ffb-56d3a8038745_jpg.rf.806cf5381a7db99673bb463048c9f86e.jpg)
 image 1/1 /content/glove-30/valid/images/02_b143366b-b211-4004-8ffb-56d3a8038745_jpg.rf.806cf5381a7db99673bb463048c9f86e.jpg: 608x640 2 glovess, 10.2ms
 Speed: 6.5ms preprocess, 10.2ms inference, 2.4ms postprocess per image at shape (1, 3, 608, 640)
 Results saved to runs/detect/predict2
